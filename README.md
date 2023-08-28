@@ -48,7 +48,7 @@
     - BEV Fusion → [김정민](https://www.notion.so/ad5c97f9c6d540a1ba6d56802210863d?pvs=21), [허정은](https://www.notion.so/1d9da9c2e8e040f0833d92a3854016ca?pvs=21)
     - Frustum PointNets → [김민지](https://www.notion.so/29d90ef4b671431b8f2b3631bb3a3793?pvs=21), [임지연](https://www.notion.so/454c60072b6643a6925af1ef5b3dc81d?pvs=21)
     - Pointpainting → [임지연](https://www.notion.so/454c60072b6643a6925af1ef5b3dc81d?pvs=21)
-2. 모델 개선 및 구현 →[임지연](https://www.notion.so/454c60072b6643a6925af1ef5b3dc81d?pvs=21)
+2. 모델 개선 방법론 제안 및 구현 →[임지연](https://www.notion.so/454c60072b6643a6925af1ef5b3dc81d?pvs=21)
 3. 환경 구축 및 디버깅 / 프로세스 실행 및 수정  →[김정민](https://www.notion.so/ad5c97f9c6d540a1ba6d56802210863d?pvs=21)
 4. Heading 추출 구현→ [김민지](https://www.notion.so/29d90ef4b671431b8f2b3631bb3a3793?pvs=21),[허정은](https://www.notion.so/1d9da9c2e8e040f0833d92a3854016ca?pvs=21)
 
