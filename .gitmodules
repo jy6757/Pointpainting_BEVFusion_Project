@@ -1,3 +1,6 @@
 [submodule "PointPainting"]
 	path = PointPainting
 	url = https://github.com/Team-JoJo/PointPainting.git
+[submodule "BEV-Fusion"]
+	path = BEV-Fusion
+	url = https://github.com/Team-JoJo/BEV-Fusion.git
