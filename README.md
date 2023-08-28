@@ -31,7 +31,7 @@
     - BEVFusion : Multi-Task Multi-Sensor Fusion with Unified Bird’s-Eye View Representation
     - PointPainting: Sequential Fusion for 3D Object Detection
 
-    [모델을 변경함으로써 확인해보고자 한 것]
+     [모델을 변경함으로써 확인해보고자 한 것]
 
 
     1. 복셀화 범위를 줄임으로써 계산량 측면에서 효율성을 갖게 되는지, 불필요한 포인트까지 복셀화가 되지 않으므로 원하는 객체를 가리는 부분이 줄어듦으로써 성능 향상에 영향을 미치는지?
