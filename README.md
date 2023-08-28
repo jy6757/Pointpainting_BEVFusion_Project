@@ -5,8 +5,6 @@
 
 ---
 
-## BEV Fusion with PointPainting & Heading Extract
-
 발표자 : 김정민, 임지연
 
 ---
