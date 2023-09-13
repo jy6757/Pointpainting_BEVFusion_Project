@@ -7,6 +7,8 @@
 
 발표자 : 김정민, 임지연
 
+발표영상 : https://www.youtube.com/watch?v=7g0oEhxYPCY
+
 ---
 
 ## 목표
